@@ -1,6 +1,6 @@
 # Loop VQ-VAE Offical
 
-This repository is implementation of "Symbolic Music Loop Generation with Neural Discrete Representations" (submitted to ISMIR 2022). The outcomes are generated loops of 8 bars consisting of bass and drum. We take the following steps; 1) *loop extraction* from MIDI datasets using our loop detector trained by the structure of loop raw audio, 2) *loop generation* from an autoregressive model trained by discrete latent codes of the extracted loops.
+This repository is implementation of "Symbolic Music Loop Generation with Neural Discrete Representations" (accepted at ISMIR 2022). The outcomes are generated loops of 8 bars consisting of bass and drum. We take the following steps; 1) *loop extraction* from MIDI datasets using our loop detector trained by the structure of loop raw audio, 2) *loop generation* from an autoregressive model trained by discrete latent codes of the extracted loops.
 
 ## Getting Started
 
@@ -30,10 +30,10 @@ This repository is implementation of "Symbolic Music Loop Generation with Neural
 * **VQVAE_LSTM.ipynb** is to train autoregressive model with discrete representations
 
 ## Samples
-You can listen our generated samples on Google Cloud (https://drive.google.com/drive/folders/1cZmeQUJRiI0964cSynKkoSp5Gg2YJPZj?usp=sharing)
+You can listen our generated samples on Google Drive (https://drive.google.com/drive/folders/1cZmeQUJRiI0964cSynKkoSp5Gg2YJPZj?usp=sharing)
 
 ## Appreciation
-Special thanks for Daehan Ahn (University of Ulsan). He contributed to improve the quality of the paper by re-organizing the content structure.
+Special thanks for DaeHan Ahn (University of Ulsan). He contributed to improve the quality of the paper by re-organizing the content structure.
 
-## Reference
-Sangjun Han, Hyeongrae Ihm, Moontae Lee, Woohyung Lim (LG AI Research), "Symbolic Music Loop Generation with Neural Discrete Representations", Proc. of the 22nd International Society for Music Information Retrieval Conference, 2022
+## References
+Sangjun Han, Hyeongrae Ihm, Moontae Lee, Woohyung Lim (LG AI Research), "Symbolic Music Loop Generation with Neural Discrete Representations", Proc. of the 23th International Society for Music Information Retrieval Conference, 2022
