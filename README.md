@@ -36,4 +36,4 @@ You can listen our generated samples on Google Drive (https://drive.google.com/d
 Special thanks for DaeHan Ahn (University of Ulsan). He contributed to improve the quality of the paper by re-organizing the content structure.
 
 ## References
-Sangjun Han, Hyeongrae Ihm, Moontae Lee, Woohyung Lim (LG AI Research), "Symbolic Music Loop Generation with Neural Discrete Representations", Proc. of the 23th International Society for Music Information Retrieval Conference, 2022
+Sangjun Han, Hyeongrae Ihm, Moontae Lee, Woohyung Lim (LG AI Research), "Symbolic Music Loop Generation with Neural Discrete Representations", Proc. of the 23rd International Society for Music Information Retrieval Conference, 2022
