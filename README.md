@@ -26,7 +26,7 @@ This repository is implementation of "Symbolic Music Loop Generation with Neural
 
 ### Loop Generation at Section 3.3
 
-* **VQVAE_main.ipynb** is to train VQVAE and obtain quantized embeddings
+* **VQVAE_main.ipynb** is to train VQ-VAE and obtain quantized embeddings
 * **VQVAE_LSTM.ipynb** is to train autoregressive model with discrete representations
 
 ## Samples
