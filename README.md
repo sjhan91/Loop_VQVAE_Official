@@ -8,7 +8,7 @@ This repository is implementation of [Symbolic Music Loop Generation with Neural
 
 * Python 3.8.8
 * Ubuntu 20.04.2 LTS
-* Read [requirements.txt](/requirement.txt) for other Python libraries
+* Read [requirements.txt](/requirements.txt) for other Python libraries
 
 ### Data Download
 
