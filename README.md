@@ -1,6 +1,6 @@
 # Loop VQ-VAE Offical
 
-This repository is implementation of [Symbolic Music Loop Generation with Neural Discrete Representations](https://arxiv.org/abs/2208.05605) (accepted at ([ISMIR 2022](https://ismir2022.ismir.net/)). The outcomes are generated loops of 8 bars consisting of bass and drum. We take the following steps; 1) *loop extraction* from MIDI datasets using our loop detector trained by the structure of loop raw audio, 2) *loop generation* from an autoregressive model trained by discrete latent codes of the extracted loops.
+This repository is implementation of [Symbolic Music Loop Generation with Neural Discrete Representations](https://arxiv.org/abs/2208.05605) (accepted at [ISMIR 2022](https://ismir2022.ismir.net/)). The outcomes are generated loops of 8 bars consisting of bass and drum. We take the following steps; 1) *loop extraction* from MIDI datasets using our loop detector trained by the structure of loop raw audio, 2) *loop generation* from an autoregressive model trained by discrete latent codes of the extracted loops.
 
 ## Getting Started
 
